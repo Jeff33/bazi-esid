@@ -1,0 +1,28 @@
+{
+  "schema": "bazi-esid.input/1",
+  "record_id": "COMPAT-REGRESSION-001",
+  "mode": "compatibility",
+  "charts": [
+    {
+      "id": "A",
+      "sex": "male",
+      "pillars": {
+        "year": "庚午",
+        "month": "甲申",
+        "day": "乙巳",
+        "hour": "庚辰"
+      }
+    },
+    {
+      "id": "B",
+      "sex": "female",
+      "pillars": {
+        "year": "癸酉",
+        "month": "甲寅",
+        "day": "丁巳",
+        "hour": "甲辰"
+      }
+    }
+  ],
+  "timing": {"luck": {}, "year": null}
+}

@@ -1,0 +1,13 @@
+interface:
+  display_name: Bazi-ESID 2.5 Code
+  short_description: 唯一代码口径的八字、运岁与合婚分析
+  default_prompt: 使用 $bazi-esid 的唯一代码引擎分析这个命局，并说明逐层证据与复现哈希。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  allow_implicit_invocation: true
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas

@@ -1,0 +1,21 @@
+{
+  "schema": "bazi-esid.input/1",
+  "record_id": "ESID24-SINGLE-001",
+  "mode": "single",
+  "charts": [
+    {
+      "id": "A",
+      "sex": "male",
+      "pillars": {
+        "year": "庚午",
+        "month": "甲申",
+        "day": "乙巳",
+        "hour": "庚辰"
+      }
+    }
+  ],
+  "timing": {
+    "luck": {"A": "辛卯"},
+    "year": "乙酉"
+  }
+}

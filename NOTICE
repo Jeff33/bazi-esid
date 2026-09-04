@@ -1,0 +1,11 @@
+Bazi-ESID 2.5 Code Edition
+Copyright 2026 Jeff33
+
+This product includes a deterministic implementation of a traditional Four Pillars framework.
+
+The user-provided source PDF is not distributed in this repository. Constants and algorithms that were not fully
+specified in that document are identified as Code Edition design choices. The software does not claim to be an
+official, scientifically validated, or universally accepted implementation of traditional Chinese metaphysics.
+
+ChatGPT, Codex, OpenAI, GitHub, and other names may be trademarks of their respective owners. Their mention describes
+compatibility or distribution only and does not imply sponsorship or endorsement.
